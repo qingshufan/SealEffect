@@ -1,0 +1,7 @@
+name: SealEffect
+main: seal.fan.com.SealEffect
+version: 0.0.1
+commands: 
+  se: 
+    usage: /se
+    description: Effect of Seal
