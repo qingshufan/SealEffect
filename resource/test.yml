@@ -1,0 +1,20 @@
+path:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+type: gif
+age: 1000
+scale: 15
+vx: 0
+vy: 0
+vz: 0
+addx: 0.0
+addy: -1.5
+addz: 0.0
+gravity: 0.0
+info: -1

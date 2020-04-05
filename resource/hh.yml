@@ -1,0 +1,10 @@
+key: 58
+#按键位置
+op: false
+#是否以后台执行
+cmd:  
+- 'se reload'
+- 'se play qingshufan 0 test false'
+- 'se play qingshufan 0 test true'
+delay: 0
+
